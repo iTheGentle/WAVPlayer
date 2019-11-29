@@ -1,0 +1,17 @@
+Package: com.iTheGentle.WAVPlayer
+Name: WAVPlayer
+Version: 0.1-2
+Description: Brings Telegram Voice Player To WhatsApp.
+Section: System
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: 
+Replaces: 
+Priority: optional
+Architecture: iphoneos-arm
+Author: iTheGentle
+dev: 
+Homepage: 
+Depiction: 
+Maintainer: 
+Icon: 
+
